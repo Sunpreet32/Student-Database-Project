@@ -1,15 +1,8 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package stud_database;
 
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author Sumer Singh
- */
 public class first_login extends javax.swing.JFrame {
 
     /**
